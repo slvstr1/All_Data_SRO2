@@ -1,0 +1,37 @@
+P:\z-tree3.3.6\111216_1458.sbj																								
+Subject	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+client	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24
+Last Name	Beòo	Flegr	hankeova	Škáchová	Škáchová	Enachi	Kaparykha	Záhradníková	Husarèík	Andriianova	Mida	Orlická	Lange	Døizgová	Matwikow	Vimmr	Kazimír	Nìmec	David	mustofa seid	Vancakova	Šmíd	Rejka	Borikova
+First Name	Matúš	Jan	tereza	Kateøina	Markéta	Stella	Kanstantin	Lea	Marek	Anastasiia	jaroslav	Eliška	Elisabeth	Zuzana	Darek	Martin Kryšpín	Lukáš	Jakub	Vojtìch	jehar	Klara	Marek	Martin	Alzbeta
+University	Charles University	Vysoká Škola Ekonomická v Praze	university of economics of prague	VŠFS	VŠE	"Charles University, IES"	VŠE	Vysoká škola ekonomická / University of Economics	VŠE	VSE v Praze	charles university	University of Economics Prague	VSE	VŠE	"University of economics, Prague"	Univerzita Karlova	Vysoká škola ekonomická v Praze	University of Economics in Prague	UK	charles university	VSE	VSE	VŠE	Charles university 
+Age	20	26	22	21	21	24	20	22	21	20	20	22	25	26	22	22	21	20	25	29	24	25	20	23
+Sex	Male	Male	Female	Female	Female	Female	Male	Female	Male	Female	Male	Female	Female	Female	Male	Male	Male	Male	Male	Male	Female	Male	Male	Female
+Interesting	3	1	4	3	4	5	3	5	4	5	3	3	4	3	2	4	5	4	5	5	4	5	5	3
+Difficult	1	1	1	1	1	3	2	3	3	3	1	1	2	1	1	3	3	1	2	1	1	2	1	2
+
+
+	Subject	client	Last Name	First Name	University	Age	Sex	Interesting	Difficult															
+	1	1	Beòo	Matúš	Charles University	20	Male	3	1															
+	2	2	Flegr	Jan	Vysoká Škola Ekonomická v Praze	26	Male	1	1															
+	3	3	hankeova	tereza	university of economics of prague	22	Female	4	1															
+	4	4	Škáchová	Kateøina	VŠFS	21	Female	3	1
+	5	5	Škáchová	Markéta	VŠE	21	Female	4	1
+	6	6	Enachi	Stella	"Charles University, IES"	24	Female	5	3
+	7	7	Kaparykha	Kanstantin	VŠE	20	Male	3	2
+	8	8	Záhradníková	Lea	Vysoká škola ekonomická / University of Economics	22	Female	5	3
+	9	9	Husarèík	Marek	VŠE	21	Male	4	3
+	10	10	Andriianova	Anastasiia	VSE v Praze	20	Female	5	3
+	11	11	Mida	jaroslav	charles university	20	Male	3	1
+	12	12	Orlická	Eliška	University of Economics Prague	22	Female	3	1
+	13	13	Lange	Elisabeth	VSE	25	Female	4	2
+	14	14	Døizgová	Zuzana	VŠE	26	Female	3	1
+	15	15	Matwikow	Darek	"University of economics, Prague"	22	Male	2	1
+	16	16	Vimmr	Martin Kryšpín	Univerzita Karlova	22	Male	4	3
+	17	17	Kazimír	Lukáš	Vysoká škola ekonomická v Praze	21	Male	5	3
+	18	18	Nìmec	Jakub	University of Economics in Prague	20	Male	4	1
+	19	19	David	Vojtìch	UK	25	Male	5	2
+	20	20	mustofa seid	jehar	charles university	29	Male	5	1
+	21	21	Vancakova	Klara	VSE	24	Female	4	1
+	22	22	Šmíd	Marek	VSE	25	Male	5	2
+	23	23	Rejka	Martin	VŠE	20	Male	5	1
+	24	24	Borikova	Alzbeta	Charles university 	23	Female	3	2
